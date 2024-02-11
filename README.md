@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- I'm currently working on a website to sell my photography work
+- I'm learning more about programming every day!
+- I like Rust particularly
+- I'm in high school taking AP CS courses
+- I love math too!
+- Pronouns: he/him
+- That's about it for now!
+
 <!--
 **nvim-ftw/nvim-ftw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
